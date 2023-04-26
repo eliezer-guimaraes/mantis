@@ -1,0 +1,6 @@
+python-whois
+python3-nmap
+time
+socket
+os
+requests
