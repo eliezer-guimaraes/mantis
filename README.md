@@ -13,6 +13,8 @@
   <li>Local server opening</li>
 </ul>
 
+<img src='initial.png'>
+
 <h3>!WARNINGS!</h3>
 <b>Before using mantis, make sure that you are protected from external attacks. It's recommended that you use a VPN or Proxy!!!</b>
 
@@ -40,7 +42,7 @@
     
    <p>Now, run it:</p>
     
-    python3 mantis.py'
+    python3 mantis.py
     
   </li>
 </ul>
