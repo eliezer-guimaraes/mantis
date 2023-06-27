@@ -47,6 +47,4 @@
   </li>
 </ul>
 
-```
-pip
-```
+Mantis is in the testing phase! Any reports of errors or suggestions will always be welcome! <b>We are not responsible for the misuse of the tool!</b>
