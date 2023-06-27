@@ -1,5 +1,4 @@
 # MANTIS
-MANTIS is a program containing tools for hacking
 
 <h3>ABOUT MANTIS V.1</h3>
 <p>MANTIS is a program containing tools for hacking, including <b>footprint</b>, <b>enumeration</b>, <b>port scanning</b>, <b>subdomain search</b>, and others. It was created with the aim of automating certain hacking tasks, to perform them quickly and effectively. MANTIS contains the following functions:</p>
